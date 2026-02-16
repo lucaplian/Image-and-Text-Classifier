@@ -21,3 +21,9 @@ As part of the Machine Learning course. Within this project, we had to implement
     - RNN, which provided a suboptimal performance, even though it was decent, this is due to not having a capacity to learn long-term dependencies
     - Unidirectional LSTM, which provided the best results, paradoxically, this is may due to having less parameters, thus less prone to overfitting
     - Bidirectional LSTM, which provided slightly worse results than the Unidirectional model.
+
+Project structure:
+- hw2_imagebits.ipynb - the code which handles classification of the images from Imagebits dataset
+- hw2_land_patches.ipynb - the code which handles classification of the images from Land Patches dataset
+- hw2_nlp.ipynb - the code which handles sentiment analysis for the Ro-Sent text.
+- hw2_luca_plian_raport.ipynb - report that focuses on detailing the project's implementation and performance analysis
